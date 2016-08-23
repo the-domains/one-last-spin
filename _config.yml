@@ -1,6 +1,5 @@
-name: One Last Spin
-layout_spectrum: 0.043322485727029236
-typography_spectrum: 0.8295258392578596
+layout_spectrum: 0.12741347239352763
+typography_spectrum: 0.25555307464674115
 color:
   brandColors:
     - '#225378'
@@ -8,7 +7,10 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
-  brandStrength: 0.16523798503789933
-  lightness: 0.5115854677362388
-  saturation: 0.31462066702041314
-  rhythmicContrast: 0.5697323884918433
+  brandStrength: 0.4021527406293899
+  lightness: 0.7516166085842997
+  saturation: 0.4978053392842412
+  rhythmicContrast: 0.5900834470521659
+coverPrefs:
+  filter: false
+name: One Last Spin
